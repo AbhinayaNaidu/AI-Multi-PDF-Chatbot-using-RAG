@@ -110,6 +110,25 @@ Generate quizzes directly from uploaded documents.
 10. Generate quizzes or AI images on demand.
 
 ---
+# ScreenShots
+Landing page
+<img width="1280" height="669" alt="Screenshot 2026-08-05 124017" src="https://github.com/user-attachments/assets/c8991900-8bb2-4905-8964-40ef9e490613" />
+Login page
+<img width="717" height="674" alt="Screenshot 2026-08-05 124037" src="https://github.com/user-attachments/assets/5fb219ec-e34b-48d7-a9eb-4906a69aa25f" />
+Dashboard
+<img width="1905" height="890" alt="Screenshot 2026-08-05 124053" src="https://github.com/user-attachments/assets/85713077-32a5-469d-a6f5-4e9a056dadc9" />
+Uploading Documents
+<img width="378" height="689" alt="Screenshot 2026-08-05 124125" src="https://github.com/user-attachments/assets/501c64fd-5b8b-4ec3-958f-a16a4c7c46b6" />
+Asking Question & Retriving Answer
+<img width="1494" height="855" alt="Screenshot 2026-08-05 124414" src="https://github.com/user-attachments/assets/35d5b7f0-2e7a-4ed4-b896-4ac21e984bd4" />
+Quiz selction 
+<img width="1439" height="534" alt="Screenshot 2026-08-05 124431" src="https://github.com/user-attachments/assets/f60a35fa-0ff1-4b35-90e7-3afab7ce4cdc" />
+Generating Quiz
+<img width="1149" height="673" alt="Screenshot 2026-08-05 124457" src="https://github.com/user-attachments/assets/661748b8-813c-4c1d-a37d-e19ae354e812" />
+Instant Score
+<img width="1453" height="744" alt="Screenshot 2026-08-05 124544" src="https://github.com/user-attachments/assets/4bb49585-b29d-4b37-9204-1696860f8de9" />
+Explanation for Incorrect Answers
+<img width="1149" height="673" alt="Screenshot 2026-08-05 124457" src="https://github.com/user-attachments/assets/5e05b15b-8f62-4810-81d9-0dd00989d743" />
 
 # ✨ Key Features
 
